@@ -1,0 +1,29 @@
+body {
+    background-image: url("Screenshot at Jan 25 19-27-24.png");
+    text-align: center;
+}
+
+.header_div {
+    background-color: aquamarine;
+    color: darkblue;
+    font-size: 25px;
+    font-family: 'Sedgwick Ave', cursive;
+}
+
+.header_div p {
+    font-family: 'Dongle', sans-serif;
+    color: red;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Abril Fatface', cursive;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 200px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    font-size: 50px;
+}
